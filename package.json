@@ -4,7 +4,7 @@
   "description": "Demo project",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/GetTokenTest.js"
+    "token-bot": "node token-bot/TokenBot.js"
   },
   "author": "Emily Subocz",
   "license": "ISC",
