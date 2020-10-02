@@ -1,0 +1,26 @@
+{
+  "name": "va-oath",
+  "version": "1.0.0",
+  "description": "Demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/GetTokenTest.js"
+  },
+  "author": "Emily Subocz",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^85.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "expess": "0.0.1-security",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "https": "^1.0.0",
+    "openid-client": "^3.14.2",
+    "passport": "^0.4.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "sleep": "^6.3.0"
+  }
+}
